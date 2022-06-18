@@ -1,0 +1,12 @@
+{
+    "name": "lidem/poo-php-mvc",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "LidemCore\\": "LidemCore/"
+        }
+    },
+    "require": {
+        "miladrahimi/phprouter": "5.*"
+    }
+}
